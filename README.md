@@ -18,10 +18,10 @@ I have a blog where I share my knowledge with beginners with tutorials of Unity 
 
 
 Email: `mrbuddesigner@gmail.com`
-Feel free to shoot my inbox with an email, for nay reason, including belows:
+Feel free to shoot my inbox with an email, for any reason, including belows:
 
 - You need help in Game design/development.
-- You need to make a friend who would mess up every little thing, but do big things nicely.
+- You need to make a friend who would mess up little things, but do big things nicely.
 - You are interested in my upcoming game, **Wheel Rider**! 
 
 ![](unknown.png)
